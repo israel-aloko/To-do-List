@@ -1,2 +1,3 @@
 goals
 Workout
+Location
