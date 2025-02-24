@@ -1,4 +1,4 @@
 goals2
 workout
 location2
-profile
+Profile
